@@ -29,6 +29,6 @@ public class Prob3 {
 			System.out.println("결과 값 : " + val);
 		}
 		
-		
+		sc.close();
 	}
 }
